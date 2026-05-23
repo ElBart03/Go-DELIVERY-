@@ -1,0 +1,6 @@
+{
+  "name": "Go! Scanner Pro",
+  "description": "Progressive Web App converted into an Android application",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
